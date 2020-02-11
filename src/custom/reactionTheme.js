@@ -41,6 +41,10 @@ const theme = createMuiTheme({
     borders: {
       default: "1px solid #e6e6e6"
     },
+    infinite: {
+      red: "#FD383F",
+      white: "#FFFFFF"
+    },
     reaction: {
       activeElementBorderColor: "#94E8D1",
       activeElementBackground: "#E6E6E6",
